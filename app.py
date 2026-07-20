@@ -405,6 +405,6 @@ gr.ChatInterface(
     fn=respond_ai,
     title="Paras' Digital Twin",
     # chatbot=(gr.Chatbot(avatar_image=(None, "Paras.jpeg"))),
-    description="Chat with an AI version of Paras Shrestha. Ask about his experience, projects, or just say hi!"
+    description="Chat with an AI version of Paras Shrestha. Ask about his experience, projects, or just say hi!",
     examples=["What's your background?", "AI Engineering experience", "Tell me about your projects"]
 ).launch()
