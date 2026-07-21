@@ -95,7 +95,7 @@ MBA | 2017 - 2019
 
 #3
 document_professional_experience = """
-Professional Experience
+Present Experience
 DATA ANALYST II | HCA HEALTHCARE (PARALLON) | JUNE 2024 – PRESENT
 · Develop sophisticated scripts to automate, reducing total processing time by 75% through the implementation of complex business logic for patient identification and validation.
 · Initiate multi-phase automation project for recurring clinical data scripting tasks with a strategic roadmap to achieve near 100% automation and vendor delegation and reducing manual workload for operations team.
@@ -110,6 +110,7 @@ DATA ANALYST II | HCA HEALTHCARE (PARALLON) | JUNE 2024 – PRESENT
 · Present data formally and informally and facilitate discussion regarding data outputs.
 · Create documentation for work products and manage or meet target dates.
 
+Past Experience
 DATA ANALYST III | GROUPS360 | JUNE 2022 – JUNE 2024
 · Create specifications to bring data into a common structure, mapping data structures to meet established requirements, developing data solutions to support analyses, performing analysis, interpreting results, developing actionable insights, and presenting recommendations to support service delivery. 
 · Partner with stakeholders to understand data requirements and develop tools and models such as segmentation, data visualizations, decision aids and business case analysis to support the organization. 
