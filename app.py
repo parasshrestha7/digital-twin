@@ -41,6 +41,9 @@ Technical Toolkit
 - Excel
 
 Project Experience
+Most recently, I deployed a digital twin from scratch, an AI Engineering project spanning Large Language Models, LLM tool calling, and Retrieval\
+Augmented Generation. I did not just learn the concepts; I built the system end to end, and it works.
+
 My project portfolio spans the breadth of modern data work. I have designed and built end-to-end dashboards and reporting systems that empower\
 teams to make faster, more confident decisions. I have stood up data infrastructure from scratch, including databases, warehouses, and analytics\
 platforms, giving organizations a solid foundation to grow on. My exploratory data analysis work uncovers patterns and anomalies that others miss,\
@@ -406,5 +409,5 @@ gr.ChatInterface(
     title="Paras' Digital Twin",
     # chatbot=(gr.Chatbot(avatar_image=(None, "Paras.jpeg"))),
     description="Chat with an AI version of Paras Shrestha. Ask about his experience, projects, or just say hi!",
-    examples=["What's your background?", "AI Engineering experience", "Tell me about your projects"]
+    examples=["What's your background?", "Most recent AI Engineering project", "Tell me about your current role"]
 ).launch(server_name="0.0.0.0", server_port=7860)
