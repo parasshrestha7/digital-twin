@@ -185,7 +185,7 @@ metadatas = []
 
 for doc in documents:
     #Prepare the lists
-    chunks_ = split_text_into_chunks(doc["text"], chunk_size=300, overlap=30)
+    chunks_ = split_text_into_chunks(doc["text"], chunk_size=500, overlap=50)
     ids_ = [str(uuid.uuid4()) for _ in range(len(chunks_))]
     metadatas_ = [{"source": doc["source"], "chunk_index": i} for i in range(len(chunks_))]
     #Add to main lists
